@@ -1,1 +1,2 @@
-# MiSpotifyWrapped_Problem
+#🎵 Mi Spotify Wrapped 🎵
+## Problema de OmegaUp
