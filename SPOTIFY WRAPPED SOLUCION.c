@@ -8,7 +8,6 @@ int main()
 	int i = 1;
 	int N;
 	float H;
-	
 	scanf("%d", &N);
 	do
 	{
